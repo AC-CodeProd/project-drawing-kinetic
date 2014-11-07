@@ -1,4 +1,4 @@
-#Dependencies
+    #Dependencies
 -----------------
 * [Gulp](http://gulpjs.com/) - The streaming build system
 * [Bower](http://bower.io/) - A package manager for the web
@@ -7,8 +7,8 @@
 -----------------
 
 ```sh
-git clone https://github.com/AC-CodeProd/project-memory-game.git
-cd project-memory-game
+git clone https://github.com/AC-CodeProd/project-drawing-kinetic.git
+cd project-drawing-kinetic
 npm install
 bower install
 gulp
